@@ -1,0 +1,6 @@
+type: sex
+value: male female
+type: age
+value: 25-30 30-35 35-40
+type: experience
+value: 2 5 10

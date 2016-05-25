@@ -1,0 +1,4 @@
+null					male	female	25-30	30-35	35-40	2	5	10
+salary					3			2	 7		 8			6	9	5	8
+safety					6			5	 3		 7			6	4	8	6
+environment 			4			7	 8		 4			8	4	9	5
