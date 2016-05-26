@@ -5,6 +5,7 @@
  */
 package survey_generator;
 
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -17,7 +18,9 @@ public class User {
     public Map<String, Double> factors;
     
     public User(Map<String, String> attributes, Map<String, Double> factors) {
-        this.attributes = attributes;
-        this.factors = factors;
+        this.attributes = new HashMap<>();
+        this.factors = new HashMap<>();
+        this.attributes.putAll(attributes);
+        this.factors.putAll(factors);
     }
 }

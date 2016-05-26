@@ -1,6 +1,10 @@
-type: sex
+type: gender
 value: male female
 type: age
-value: 25-30 30-35 35-40
+value: 30-35 36-40 41-45 46-50
 type: experience
-value: 2 5 10
+value: 1-3 4-6 7-10
+type: incentives_type
+value: financial non-financial both
+type: your_satisfaction
+value: highly_satisfied satisfied neutral dissatisfied highly_dissatisfied
